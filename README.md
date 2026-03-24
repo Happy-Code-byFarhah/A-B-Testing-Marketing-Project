@@ -69,7 +69,7 @@ The main objective is to determine whether the advertising campaign significantl
 ---
 
 ## 📂 Project Files
-https://github.com/Happy-Code-byFarhah/A-B-Testing-Marketing-Project/blob/main/AB%20Testing%20Project.ipynb
+**[Project](https://github.com/Happy-Code-byFarhah/A-B-Testing-Marketing-Project/blob/main/AB%20Testing%20Project.ipynb)**
 
 ## 📊 Dataset
-https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing
+**[Data](https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing)**
