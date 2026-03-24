@@ -32,9 +32,9 @@ The main objective is to determine whether the advertising campaign significantl
 
 4. **Z-Test Assumption Checking**  
    - Independence of samples  
-   - No duplicate users  
-   - Success-Failure condition:  
-     - \( n \times \hat{p} \geq 10 \)  
+   - No duplicate users
+   - Expected Successes (n × p)
+   - Expected Failures (n × (1 − p))
 
 5. **A/B Testing (Z-Test)**  
    Perform statistical significance testing on conversion rates  
@@ -69,7 +69,7 @@ The main objective is to determine whether the advertising campaign significantl
 ---
 
 ## 📂 Project Files
-(Add your GitHub folder link here)
+https://github.com/Happy-Code-byFarhah/A-B-Testing-Marketing-Project/blob/main/AB%20Testing%20Project.ipynb
 
 ## 📊 Dataset
-(Add your dataset link here)
+https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing
